@@ -1,0 +1,9 @@
+Body: #1A1A1D
+
+light grey: #4E4E50
+
+darkest red: #6F2232
+
+magenta: #950740
+
+pink/red: #C3073F
