@@ -1,9 +1,9 @@
-Body: #1A1A1D
+black #0B0C10
 
-light grey: #4E4E50
+dark grey: #1F2833
 
-darkest red: #6F2232
+light grey: #C5C6C7
 
-magenta: #950740
+turqoise: #66FCF1
 
-pink/red: #C3073F
+teal: #45A29E
