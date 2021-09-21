@@ -1,0 +1,16 @@
+TODO:
+
+figure out how to parse a odt file.
+Use the data from the parse and input into html.
+Either that, or display directly from txt.
+Google to see if i can display odt files directly or through a pdf.
+
+Make the cards interactable.
+
+Make the theme selector work.
+
+Add Logo
+
+Preferably, make the cards change the html file and display different cards
+rather than having to go to a different webpage
+
