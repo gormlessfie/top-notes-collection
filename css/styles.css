@@ -77,7 +77,7 @@ body {
     min-width: 0%;
     max-width: 30vh;
 
-    min-height: 100vh;
+    min-height: 100%;
 
     display: flex;
     flex: 1;
@@ -112,6 +112,7 @@ body {
 
 .base-container {
     display: flex;
+    flex: 1;
 }
 
 .base-card-container {
